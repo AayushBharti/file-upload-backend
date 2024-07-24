@@ -12,7 +12,7 @@ const fileUpload = require("express-fileupload")
 app.use(
   fileUpload({
     useTempFiles: true,
-    tempFileDir: "/tmp/",
+    tempFileDir: "/tmp/"
   })
 )
 
