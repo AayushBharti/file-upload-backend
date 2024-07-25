@@ -17,6 +17,7 @@
     "env": "^0.0.2",
     "express": "^4.19.2",
     "express-fileupload": "^1.5.1",
-    "mongoose": "^8.5.1"
+    "mongoose": "^8.5.1",
+    "nodemailer": "^6.9.14"
   }
 }
